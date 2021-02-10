@@ -95,8 +95,11 @@ Belief that government’s sole purpose is to protect the rights of the people; 
 Religious Revival; Belief that God speaks to all people, not just the wealthy or elite; questioned authority
 ### Civil Disobedience
 Refusal to comply with certain laws or pay taxes or fines as a peaceful form of political protest
-### Increasing Tension with Britain
 
+### First Continental Congress
+Colonial Delegates met in Philadelphia in 1774 to protest Intolerable Acts; resolved to boycott British goods and for militias
+
+### Increasing Tension with Britain
 British Policy
 | British Policy        | Definition                                      | Colonial Reaction                                       |
 |-----------------------|-------------------------------------------------|---------------------------------------------------------|
@@ -108,10 +111,77 @@ British Policy
 | Tea Act               | Tax on tea                                      | Boston Tea Party                                        |
 | Intolerable Acts      | Closed Boston Harbor                            | [First Continental Congress](#First-Continental-Congress)                            |
 
-### First Continental Congress
-Colonial Delegates met in Philadelphia in 1774 to protest Intolerable Acts; resolved to boycott British goods and for militias
 # Unit III
-unfinished
+## Revolutionary War (1775 - 1783)
+
+### Lexington And Concord
+First battles of the Revolution
+* British planned to arrest colonial leaders and seize weapons
+* Paul Revere made famous Midnight Ride to warn the militia
+* Known as the "Shot heard `round the world`"
+
+### Second Continental Congress
+* Chose Washington as commander of the Continental Army
+* Approved creation of a Declaration of Independence
+* Became nations first acting government
+
+### Declaration of Independence (July 4, 1776)
+* Written Primarily by Thomas Jefferson
+* Listed Grievances against King George III and claimed independence from Britain based on philosophies of John Locke
+
+### Saratoga
+Turning point of the war
+* Convinced French King to recgnize and aide Americans
+
+### Valley Forge
+Harsh winter endured by the Continental Army
+* Many deserted
+ * Washington had to motivate troops to stay
+* Marquis de Lafayette and Baron von Stueben arrive from Europe to help train the army
+
+### Yorktown
+Last major battle of the war
+* French ships prevent British supplies from reaching Yorktown
+
+### Treaty of Paris (1783)
+Ended the American Revolution
+* The 13 colonies became independent from England
+* The boundary of the U.S. extends to Mississippi River
+
+## Key Individuals
+### George Washington
+Commander-in-Chief of the Continental Army; despite losses, kept his army together and motivated
+### Crispus Attucks
+African-American who was the first man to die at the Boston Massacre
+### Samual Adams
+Boston patriot who established the Committees of Correspondence to keep colonists informed of British actions; leader of the Sons of liberty
+### Benjamin Franklin
+Author, publisher, inventor, and diplomat
+### Patrick Henry
+Virginia patriot who gave his famous speech ending in
+> "Give me liberty, or give me death!"
+### Thomas Paine
+Wrote *Common Sense* to justify the colonists' independence; wrote *American Crisis* to motivate soldiers to keep fighting despite losses and a hard winter at Valley Forge
+### Abigail Adams
+Wife of John Adams; known for her support of women's rights from letters to her husband
+### Wentworth Cheswell
+African-American patriot; rode with Pual Revere during the Midnight Ride; fought at Saratoga
+### Mercy Otis Warren
+Patriot writer who supported independence and convinced others to join the cause; first woman historian of the American Revolution
+### James Armistead
+African American spy during the war; spied on General Cornwallis' camp
+### Bernardo do Galvez
+Spaniard sailor who held off the British fleet in New Orleans during the war
+### Haym Salomon
+Jewish banker who spied on the British; helped finance the war
+### Marquis de Lafayette
+French nobleman who helped train American soldiers during the war
+### John Paul Jones
+"Father of the U.S. Navy", led raids on British ships and famously said,
+> "I have not yet begun to fight!"
+### King George III
+King of England during the Revolutionary War
+
 # Unit IV
 ## Constitutional (Philadelphia) Convention, 1787
 Delegates met to receive the Articles of Confederation, but instead wrote a new constitution and formed a new government.
